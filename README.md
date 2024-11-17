@@ -14,7 +14,6 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=denshoelacee&style=flat-square&color=blue" alt=""/>
-  
 </div>
 
 <br>
@@ -44,7 +43,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denshoelacee&show_icons=true&locale=en&layout=compact" alt="denshoelacee" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denshoelacee&show_icons=true&locale=en" alt="denshoelacee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denshoelacee&" alt="denshoelacee" /></p>
 
 <!---
 denshoelacee/denshoelacee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
