@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/sgwykdn" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="denielybanez.vercel.app" target="_blank">
+  <a href="https://denielybanez.vercel.app/" target="_blank">
   PORTFOLIO
   </a>
     
